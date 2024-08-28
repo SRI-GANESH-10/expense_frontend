@@ -2,4 +2,38 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+    font-family: 'Mukta-Regular';
+    src: url('/fonts/mukta/Mukta-Regular.ttf')
+  }
 
+  @font-face {
+    font-family: 'Mukta-Bold';
+    src: url('/fonts/mukta/Mukta-Bold.ttf') 
+  }
+
+  @font-face {
+    font-family: 'Mukta-ExtraBold';
+    src: url('/fonts/mukta/Mukta-ExtraBold.ttf') 
+  }
+  
+  @font-face {
+    font-family: 'Mukta-Light';
+    src: url('/fonts/mukta/Mukta-Light.ttf') 
+  }
+
+  @font-face {
+    font-family: 'Mukta-Medium';
+    src: url('/fonts/mukta/Mukta-Medium.ttf');
+  }
+
+  @font-face {
+    font-family: 'Mukta-SemiBold';
+    src: url('/fonts/mukta/Mukta-SemiBold.ttf')
+  }
+  
+  @font-face {
+    font-family: 'Mukta-ExtraLight';
+    src: url('/fonts/mukta/Mukta-ExtraLight.ttf')
+  }
+  
